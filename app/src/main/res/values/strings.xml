@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhysicsMachine</string>
+    <string name="enternumber">Enter Number</string>
+    <string name="enterquestion">Enter Question</string>
+    <string name="enterchoice1">Enter Option 1</string>
+    <string name="enterchoice2">Enter Option 2</string>
+    <string name="enterchoice3">Enter Option 3</string>
+    <string name="enterchoice4">Enter Option 4</string>
+    <string name="enteranswer">Enter Answer [1-4]</string>
+
+    <string name="branch1pretest">CLASSICAL MECHANICS\nPre-Test</string>
+    <string name="branch1posttest">CLASSICAL MECHANICS\nPost-Test</string>
+
+</resources>

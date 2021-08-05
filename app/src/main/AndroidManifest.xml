@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.physicsmachinev2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PhysicsMachineV2"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".activity_finishLesson"></activity>
+        <activity android:name=".activity_lesson1m" />
+        <activity android:name=".activity_lesson1l" />
+        <activity android:name=".activity_lesson1k" />
+        <activity android:name=".activity_lesson1j" />
+        <activity android:name=".activity_lesson1i" />
+        <activity android:name=".activity_lesson1h" />
+        <activity android:name=".activity_lesson1g" />
+        <activity android:name=".activity_lesson1f" />
+        <activity android:name=".activity_lesson1e" />
+        <activity android:name=".activity_lesson1d" />
+        <activity android:name=".activity_lesson1c" />
+        <activity android:name=".activity_lesson1b" />
+        <activity android:name=".activity_lesson1a" />
+        <activity android:name=".activity_lesson" />
+        <activity android:name=".activity_inputfields" />
+        <activity android:name=".activity_scoresviewer" />
+        <activity android:name=".activity_test_B1pstscore" />
+        <activity android:name=".activity_test_B1pstquestions" />
+        <activity android:name=".activity_test_B1pst" />
+        <activity android:name=".activity_test_B1prtscore" />
+        <activity android:name=".activity_test_B1prtquestions" />
+        <activity android:name=".activity_test_B1prt" />
+        <activity android:name=".activity_branch1menu" />
+        <activity android:name=".activity_adminbranch1pretest" />
+        <activity android:name=".activity_adminbranch1menu" />
+        <activity android:name=".activity_adminmenu" />
+        <activity android:name=".activity_adminlogin" />
+        <activity android:name=".activity_about" />
+        <activity android:name=".activity_help" />
+        <activity android:name=".activity_ratings" />
+        <activity android:name=".activity_learningbranch" />
+        <activity android:name=".activity_menu" />
+        <activity android:name=".Select_User" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
